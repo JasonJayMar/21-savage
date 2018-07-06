@@ -1,0 +1,23 @@
+body{
+  background-image: url("https://djbooth.net/.image/t_share/MTUzNDg1OTE5MDA4MjcwMTkz/21-savage-issa-album-reviewjpg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  font-size: 60px;
+  color: red;
+  border: 1px solid black;
+  width: 20%;
+  background-color: black;
+  margin-left: 40%;
+}
+h2{
+  font-size: 50px;
+  color: red;
+  border: 1px solid black;
+  width: 28%;
+  background-color: black;
+}
+h3{
+  font-size: 50px;
+}
